@@ -1,1 +1,4 @@
-chanchito feliz 
+A = Index Added (al realizar un git add)
+U = Untracked (archivos del repositorio al que no se le hizo git add)
+M = Modified (archivo modificado al q se le debe realizar nuevamente el git add)
+R = Index Renamed (me sucedio al hacer un git add no se porque)
