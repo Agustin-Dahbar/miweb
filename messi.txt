@@ -1,3 +1,4 @@
 U = Untracked --> A = Index Added --> M = Modified --> git add de nuevo para que --> A. 
 Mediante git rm lo removeremos de "Stage" y volvera al inicio.
  
+ en dos codifgos
