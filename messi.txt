@@ -3,3 +3,6 @@ Mediante git rm lo removeremos de "Stage" y volvera al inicio.
  
 
  hola
+
+
+ hola como estas 
